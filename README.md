@@ -21,5 +21,5 @@ The Memory Card Game is an Android application designed to enhance your memory s
   <img src="./Screenshot_20241029_141128_Memory Game.jpg" />
 </p>
 
-## APK Download Link
+## 📦 APK Download Link
 You can download the APK file for the Memory Card Game from the following link: [Download APK](https://github.com/BoburjonMurodov/MemoryGame/releases/download/release/app-release.apk).
